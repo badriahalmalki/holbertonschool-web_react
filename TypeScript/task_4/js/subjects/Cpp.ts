@@ -1,5 +1,5 @@
 namespace Subjects {
-	export interface TeacherInterface {
+	export interface Teacher {
 	  experienceTeachingC?: number;
 	}
 	export class Cpp extends Subject {
